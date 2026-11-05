@@ -1,0 +1,6 @@
+{
+  "name": "실시간 체스 아레나 (Online Chess Arena)",
+  "description": "파티 코드로 친구를 초대해 실시간으로 즐기는 고품질 온라인 체스 게임. 드래그 앤 드롭 조작, 클래식 및 선공 선택 모드, 실시간 채팅 및 전적 기록 지원.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
